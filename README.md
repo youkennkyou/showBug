@@ -2,8 +2,8 @@
 例如如下
 
 文件路径：
-/Users/xxx/Library/Developer/Xcode/Archives/2019-11-08/xxx 2019-11-8, 10.55 PM.xcarchive/dSYMs/xxx.app.dSYM/Contents/Resources/DWARF/xxx
-
+/ Users / xxx / Library / Developer / Xcode / Archives / 2019-11-08 / xxx 2019-11-8，10.55 PM.xcarchive / dSYMs / xxx.app.dSYM / Contents / Resources / DWARF / xxx
+文件路径可以使用finder打开文件所在目录，之后将固定目录文件拖入文件路径选择框。
 
 错误日志文本：
 [&lt;TripListCell 0x104062a00&gt; valueForUndefinedKey:]: this class is not key value coding-compliant for the key _swipeToDeleteConfirmationView.
